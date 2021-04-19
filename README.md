@@ -1,7 +1,6 @@
 # 🏧 FDS_CKKS
 
-<img src="https://i.esdrop.com/d/6s3tAASJcz.png" width="40%" style="float:left">
-<img src="https://i.esdrop.com/d/hRccm3NQAT.png" width="40%" style="float:left">
+<img src="https://i.esdrop.com/d/6s3tAASJcz.png" width="40%" style="float:left"> <img src="https://i.esdrop.com/d/hRccm3NQAT.png" width="40%" style="float:left">
 
 ### 📄 Content
 
