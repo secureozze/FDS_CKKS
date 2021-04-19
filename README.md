@@ -1,5 +1,9 @@
 # 🏧 FDS_CKKS
-![fds01](https://i.esdrop.com/d/6s3tAASJcz.png) ![fds02](https://i.esdrop.com/d/hRccm3NQAT.png)
+![fds01](https://i.esdrop.com/d/6s3tAASJcz.png)
+![fds02](https://i.esdrop.com/d/hRccm3NQAT.png)
+
+<img src="https://i.esdrop.com/d/6s3tAASJcz.png" width="40%">
+<img src="https://i.esdrop.com/d/hRccm3NQAT.png" width="40%">
 
 ### 📄 Content
 
